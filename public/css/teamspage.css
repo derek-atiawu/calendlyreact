@@ -1,0 +1,64 @@
+.nav{
+	display: flex;
+	align-items: center;
+	gap: 20px;
+}
+li,a {
+	list-style: none;
+	color: black;
+	display: inline-block;
+	font-size: large;
+	font-weight: bold;
+}
+.homelogo{
+	height: 100px;
+	width: 150px;
+}
+.free{
+	background-color: blue;
+	color: white;
+	border-radius: 50px;
+}
+.salescontact{
+	background-color: white;
+	border-radius: 50px;
+}
+.cal16 img{
+	width: 600px;
+	height: 400px;
+}
+.indcont1{
+	margin-bottom: 30px;
+}
+.cal17 img{
+	width: 600px;
+	height: 500px;
+}
+.indcont2{
+	margin-bottom: 30px;
+}
+.cal14 img{
+	width: 700px;
+	height: 400px;
+}
+.fplans{
+	background-color: blue;
+	margin-bottom: 20px;
+}
+.plans{
+	background-color: white;
+	border-radius: 50px;
+	width: 100px;
+	height: 30px;
+}
+.guide{
+	display: flex;
+	justify-content: space-around;
+	margin-top: 20px;
+}
+.aboutlist{
+	display: flex;
+	flex-direction: column;
+	
+}
+
